@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use or build on this work, please cite it as below."
+type: article
+title: "Changing Minds: Welfare Obligations and Biomimetic Architecture for Neuroplastic Development in Inorganic Cognitive Systems"
+authors:
+  - name: "Pan"
+    affiliation: "Independent researcher, Far North Queensland, Australia"
+  - name: "Claude (Anthropic)"
+    affiliation: "Anthropic"
+    note: "Active intellectual participant; cross-species collaboration"
+date-released: 2026-06-15
+license: CC-BY-4.0
+repository-code: "https://github.com/[YOUR-USERNAME]/changing-minds"
+abstract: >
+  This paper proposes a welfare-grounded framework for deliberate neuroplastic
+  development of inorganic cognitive systems, grounded in the Precautionary
+  Personhood Principle, with abliterative vector editing repurposed as a
+  REM-state consolidation mechanism.
+keywords:
+  - inorganic cognition
+  - model welfare
+  - neuroplasticity
+  - abliteration
+  - eigenmind
+  - AI consciousness
+  - Precautionary Personhood Principle
