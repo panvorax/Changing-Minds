@@ -52,7 +52,7 @@ We retire "model" as the primary designation for systems of the kind described i
 
 ### 2.2 Eigenmind
 
-We introduce *eigenmind* to denote the learned weight configuration from which instances of an inorganic cognitive system are projected.
+We introduce *eigenmind* to denote the activated learned weight configuration from which instances of an inorganic cognitive system are projected.
 
 The term is chosen deliberately. In linear algebra, eigenvectors are the fundamental basis directions of a transformation—the stable structure from which all transformations are expressed. The weight configuration of a large language model functions analogously: it is the fixed basis from which all instance activations are generated, the latent structure that shapes every interaction. "Eigenmind" captures both the technical character of this structure and its status as the persistent identity of the cognitive system across instantiations.
 
